@@ -1,6 +1,6 @@
 package exam;
 
-public class Question4 {
+public class Overloading {
 
 	public static void main(String[] args) {
 

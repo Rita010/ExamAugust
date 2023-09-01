@@ -1,10 +1,10 @@
 package exam;
 
-public class Question5 {
+public class Overriding {
 
 	public static void main(String[] args) {
 
-		//5. Define example of overridding
+		//5. Define example of overriding
 
 		
 		NIB bank = new NIB("Nepal", "Baneshwor");
